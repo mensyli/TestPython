@@ -1,0 +1,1 @@
+urllib.parse.urlparse() #解析url
